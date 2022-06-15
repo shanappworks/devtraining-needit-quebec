@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>earthquake last year</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Last year</name>
+        <query_condition table="x_58872_needit_needit">^ORDERBYsys_created_on<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:09:41</sys_created_on>
+        <sys_id>efc89a46074011103306f7fc7c1ed0c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Last year</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_data_item_efc89a46074011103306f7fc7c1ed0c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:09:41</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=efc89a46074011103306f7fc7c1ed0c4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>642d8da3db75db00439ef70fbf96194f</instance_id>
+        <instance_name>dev58423</instance_name>
+        <name>sys_sg_data_item_efc89a46074011103306f7fc7c1ed0c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>earthquake last year</description><group_by/><instance_relative_url_qc/><name>Last year</name><query_condition table="x_58872_needit_needit">^ORDERBYsys_created_on<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="sys_created_on"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-14 08:09:41</sys_created_on><sys_id>efc89a46074011103306f7fc7c1ed0c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Last year</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_data_item_efc89a46074011103306f7fc7c1ed0c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-14 08:09:41</sys_updated_on><table>x_58872_needit_needit</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=efc89a46074011103306f7fc7c1ed0c4"/></record_update>]]></payload>
+        <payload_hash>1910865481</payload_hash>
+        <record_name>Last year</record_name>
+        <reverted_from/>
+        <source>17265602074011103306f7fc7c1ed092</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:09:41</sys_created_on>
+        <sys_id>e7c89a46074011103306f7fc7c1ed0c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1816142e10b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:09:41</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>efc89a468640111053a3891a74ebfec7</update_guid>
+        <update_guid_history>efc89a468640111053a3891a74ebfec7:1910865481</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-14 08:13:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>5836c0baa0bf439ab14defb7114af0f1</sys_id>
+        <sys_metadata>efc89a46074011103306f7fc7c1ed0c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Last year</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_efc89a46074011103306f7fc7c1ed0c4</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_efc89a46074011103306f7fc7c1ed0c4">e7c89a46074011103306f7fc7c1ed0c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-14 08:13:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
